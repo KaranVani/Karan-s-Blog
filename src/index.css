@@ -1,5 +1,5 @@
 :root {
-  --heading: 32px;
+  --heading: 24px;
   --title: 26px;
   --text: 20px;
   --primary_color: rgb(56, 151, 211);
@@ -9,7 +9,7 @@
 
 body {
   margin: 0;
-  font-family: sans-serif;
+  font-family: 'Lato', serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   background-color: var(--background-color);
